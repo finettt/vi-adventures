@@ -1,0 +1,4 @@
+*  @
+This is the portal.
+Portal moves you to the next room.
+You can interact with portal with e

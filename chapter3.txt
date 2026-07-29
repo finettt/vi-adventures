@@ -1,0 +1,2 @@
+You can walk like in vi, with h,j,k,l letters. 
+Also you can write a number between 0 and 5 before letter, so you step multiply units

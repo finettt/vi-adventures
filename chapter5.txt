@@ -1,0 +1,4 @@
+n
+This is nano. your enemy.
+You need to kill all nanos to activate the portal.
+You can attack enemies with the a.
